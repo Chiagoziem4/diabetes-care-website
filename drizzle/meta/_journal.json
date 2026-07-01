@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "mysql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1782925962532,
+      "tag": "0000_ambiguous_grey_gargoyle",
+      "breakpoints": true
+    }
+  ]
 }
