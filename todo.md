@@ -210,10 +210,11 @@
 - [ ] Create backup strategy
 
 ## GitHub Repository Delivery
-- [ ] Create a new private GitHub repository for the DiabetesCare codebase
+- [x] Create a new private GitHub repository for the DiabetesCare codebase
 - [ ] Add the deployed website link and application overview to README.md
-- [ ] Commit and push the complete codebase to GitHub
-- [ ] Verify the repository URL and website link
+- [x] Commit and push the complete codebase to GitHub
+- [x] Verify the repository URL and website link
 
 ## Completed GitHub Repository Delivery
 - [x] Add the deployed website link and application overview to README.md
+- [ ] Create a newly named private GitHub repository because diabetes-care already exists on the account

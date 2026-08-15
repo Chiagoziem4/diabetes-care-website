@@ -47,7 +47,7 @@ DiabetesCare is a comprehensive, production-ready full-stack web application des
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Chiagoziem4/diabetes-care.git
+   git clone https://github.com/Chiagoziem4/diabetes-care-website.git
    cd diabetes-care
    ```
 
